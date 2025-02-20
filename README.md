@@ -14,8 +14,6 @@ This comprehensive dashboard project is built using the MERN (MongoDB, Express.j
 6. [Installation](#installation)
 7. [Folder Structure](#folder-structure)
 8. [Running the Application](#running-the-application)
-9. [Author](#author)
-10. [Documentation](#documentation)
 
 ## Demo
 
@@ -134,7 +132,7 @@ Ensure to replace `YOUR_MONGODB_URL` with your actual MongoDB URL. The `PORT` va
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/Dashboard.git
+git clone [url]
 ```
 
 2. Change to the project directory:
@@ -201,23 +199,3 @@ This structure separates the client and server codebases for better organization
 
 - Start the server: `npm run dev` in the `server` directory.
 - Start the client: `npm run dev` within the `client` directory.
-
-## Author
-
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
-
-Certainly! Here's the documentation section with relevant links:
-
-## Documentation
-
-- **[React Documentation](https://reactjs.org/docs/getting-started.html)**: Explore React documentation for building user interfaces.
-- **[Nivo Documentation](https://nivo.rocks/docs/)**: Discover Nivo documentation for data visualization components in React.
-- **[Material-UI Documentation](https://mui.com/getting-started/usage/)**: Dive into Material-UI documentation for React UI components.
-- **[Express.js Documentation](https://expressjs.com/en/starter/installing.html)**: Learn more about Express.js for building web applications with Node.js.
-- **[MongoDB Documentation](https://docs.mongodb.com/)**: Explore MongoDB documentation for NoSQL database management.
-- **[Mongoose Documentation](https://mongoosejs.com/docs/)**: Refer to Mongoose documentation for MongoDB object modeling in Node.js.
-- **[React Router DOM Documentation](https://reactrouter.com/web/guides/quick-start)**: Learn how to use React Router DOM for client-side routing within the application.
-
----
-
-Feel free to adjust any sections or details according to your preferences!
